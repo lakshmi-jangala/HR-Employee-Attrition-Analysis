@@ -32,7 +32,7 @@ This project analyzes a real-world HR dataset from IBM to identify key factors r
 - Monthly income and distance from home showed strong correlations with attrition.
 
 ## 💻 Run It Yourself
-- Open this notebook in [Google Colab](https://colab.research.google.com/drive/1X4FHJpGmALrV6QMR0X9IuKR9Syz3zlIX?usp=sharing)
+- Open this notebook in (https://colab.research.google.com/drive/1X4FHJpGmALrV6QMR0X9IuKR9Syz3zlIX?usp=sharing)
 
 ## 🙋‍♀️ Author
 Lakshmi Jangala  
